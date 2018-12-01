@@ -1,2 +1,3 @@
-# count_down_japan
-Datascience for Count Down Japan 
+# ROCKIN'ON DATA SCIENCE
+
+Data science for ROCK!
