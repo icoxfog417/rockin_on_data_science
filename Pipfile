@@ -11,6 +11,7 @@ beautifulsoup4 = "*"
 pandas = "*"
 matplotlib = "*"
 jupyter = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.6"
